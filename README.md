@@ -42,7 +42,7 @@ The workflow simulates a real-world analytics engineering process involving data
 ### 5️⃣ Exploratory Analysis
 - Notebook-based EDA and inspection of transformed data
 
-### 6️⃣ Dashboard Visualization (Planned)
+### 6️⃣ Dashboard Visualization
 The processed dataset will be used to build an interactive dashboard (Power BI) to visualize vendor performance metrics and business insights.
 
 ---
